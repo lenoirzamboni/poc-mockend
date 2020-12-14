@@ -1,0 +1,14 @@
+{
+  "Driver": {
+    "name": "string",
+    "age": "int",
+    "createdAt": "date"
+  },
+  "Port": {
+  	"name": "string"
+  },
+  "Terminal": {
+  	"name": "string",
+  	"port": "Port"
+  }
+}
