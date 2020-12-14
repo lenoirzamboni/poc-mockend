@@ -1,0 +1,7 @@
+{
+  "Group": {
+    "name": "string",
+    "description": "string",
+    "createdAt": "date"
+  }
+}
